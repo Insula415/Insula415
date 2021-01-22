@@ -4,7 +4,6 @@
 - ⚡ HTML, CSS, JavaScript, Python, PHP
 - 🌱 I’m currently learning C# and C++
 - 🥅 2021 Goals: Stay active on GitHub + Stackoverflow, finish learning C# + C++
-![](https://komarev.com/ghpvc/?username=Insula415&color=brightgreen)
 
 
 <h3 align="left">Connect with me:</h3>
