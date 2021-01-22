@@ -25,7 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insula415&show_icons=true&locale=en&layout=compact" alt="insula415" /></p>
 
 </details>
-
+<br>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
