@@ -23,6 +23,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insula415&show_icons=true&locale=en" alt="insula415" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=insula415&" alt="insula415" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insula415&show_icons=true&locale=en&layout=compact" alt="insula415" /></p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insula415&show_icons=true&locale=en&layout=compact" alt="insula415" /></p> -->
+
+---
+<details>
+  <summary>:zap: Most used languages</summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insula415&show_icons=true&locale=en&layout=compact" alt="insula415" /></p>
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Insula's github stats" src="https://github-readme-stats.vercel.app/api?username=Insula415&show_icons=true&theme=radical" />
+
+</details>
