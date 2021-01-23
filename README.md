@@ -28,6 +28,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Insula's github stats" src="https://github-readme-stats.vercel.app/api?username=Insula415&show_icons=true&theme=radical" />
+  <img align="left" alt="Insula's github stats" src="https://github-readme-stats.vercel.app/api?username=Insula415&show_icons=true&theme=radical"/>
 
 </details>
