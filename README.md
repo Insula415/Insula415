@@ -21,7 +21,7 @@
 <details>
   <summary>:zap: Most used languages</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insula415&show_icons=true&locale=en&layout=compact" alt="insula415" /></p>
+<p><img align="left" alt="Insula's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=insula415&show_icons=true&locale=en&layout=compact" /></p>
 
 </details>
 <br>
