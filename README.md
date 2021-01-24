@@ -3,7 +3,7 @@
 
 - ⚡ HTML, CSS, JavaScript, Python, PHP
 - 🌱 I’m currently learning C# and C++
-- 🥅 2021 Goals: Stay active on GitHub + Stackoverflow, finish coding projects
+- 🥅 2021 Goals: Stay active on GitHub + Stackoverflow, complete at least 2 projects a month
 - 📄 Favourite editor: Sublime Text 3 / Atom
 
 
