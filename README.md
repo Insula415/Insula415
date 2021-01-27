@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C# and C++
 - 🥅 2021 Goals: Stay active on GitHub + Stackoverflow, complete at least 2 projects a month
 - 📄 Favourite editor: Sublime Text 3 / Atom
-
+- 🔶 Current project: Freelance website template.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
