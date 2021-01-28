@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/insula415" target="blank"><img align="center" src="twitter.PNG" alt="insula415" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15015997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:15015997" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15015997/insula?tab=profile" target="blank"><img align="center" src="stack.PNG" alt="user:15015997" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
