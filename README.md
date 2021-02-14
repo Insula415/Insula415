@@ -2,7 +2,7 @@
 <h3 align="left">I'm a student and a software engineer, specialising in web development, from the UK</h3>
 
 - ⚡ HTML, CSS, Liquid, JavaScript, Python
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning C# and Dart
 - 🥅 2021 Goals: Stay active on GitHub + Stackoverflow, complete at least 2 projects a month
 - 📄 Favourite editor: Sublime Text 3 / Atom
 - 🔶 Current project: Freelance website template.
