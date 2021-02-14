@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Insula 👋</h1>
 <h3 align="left">I'm a student and a software engineer, specialising in web development, from the UK</h3>
 
-- ⚡ HTML, CSS, JavaScript, Python, PHP
+- ⚡ HTML, CSS, Liquid, JavaScript, Python
 - 🌱 I’m currently learning C# and C++
 - 🥅 2021 Goals: Stay active on GitHub + Stackoverflow, complete at least 2 projects a month
 - 📄 Favourite editor: Sublime Text 3 / Atom
