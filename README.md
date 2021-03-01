@@ -4,7 +4,7 @@
 - ⚡ HTML, CSS, Liquid, JavaScript, Python
 - 🌱 I’m currently learning C# and Node.js
 - 🥅 2021 Goals: Stay active on GitHub + Stackoverflow, complete at least 2 projects a month
-- 📄 Favourite editor: Sublime Text 3 / Atom
+- 📄 Favourite editor: Sublime Text 3 / Visual Studio Code
 - 🔶 Current project: Freelance website template.
 
 <h3 align="left">Connect with me:</h3>
